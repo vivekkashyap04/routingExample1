@@ -1,0 +1,14 @@
+
+.profile-img{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    margin-top: -90px;
+}
+.main{
+    background-color: rgb(38, 123, 172);
+    height:150px;
+}
+.name,.heading{
+    color:white;
+}
